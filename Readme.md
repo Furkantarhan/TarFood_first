@@ -8,7 +8,7 @@ This is just a viewable impression.
 #
 -TR
 Yapmış bu çalışma ile HTML ve CSS örneklerini eklemek istiyorum.
-Bu sadece bir görüntülenebilir  gösterimdir.
+Bu sadece bir görüntülenebilir  içeriktir.
 #
 
 
